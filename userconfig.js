@@ -442,7 +442,7 @@ const default_configuration = {
     },
     {
       name: "music",
-      background_url: "src/img/banners/lofi.jpg",
+      background_url: "src/img/banners/banner_03.gif",
       categories: [
         {
           name: "listen",
@@ -582,7 +582,7 @@ const default_configuration = {
     },
     {
       name: "tools",
-      background_url: "src/img/banners/tokyo.png",
+      background_url: "src/img/banners/banner_17.gif",
       categories: [
         {
           name: "general",
@@ -770,7 +770,7 @@ const default_configuration = {
     },
     {
       name: "art",
-      background_url: "src/img/banners/sky.png",
+      background_url: "src/img/banners/banner_05.gif",
       categories: [
         {
           name: "media",
