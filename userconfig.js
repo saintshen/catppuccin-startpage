@@ -481,7 +481,7 @@ const default_configuration = {
         },
         {
           name: "rating/tracking",
-          links: i[
+          links: [
             {
               name: "AOTY",
               url: "https://www.albumoftheyear.org/",
