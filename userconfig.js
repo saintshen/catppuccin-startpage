@@ -42,7 +42,7 @@ const default_configuration = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "personal",
+      name: "myself",
       background_url: "src/img/banners/banner_09.gif",
       categories: [
         {
@@ -130,11 +130,6 @@ const default_configuration = {
               icon: "home-2",
               icon_color: palette.mauve,
             },
-          ],
-        },
-        {
-          name: "job",
-          links: [
             {
               name: "linkedin",
               url: "https://www.linkedin.com/",
@@ -335,7 +330,7 @@ const default_configuration = {
       ],
     },
     {
-      name: "chill",
+      name: "chi ll",
       background_url: "src/img/banners/banner_08.gif",
       categories: [
         {
@@ -486,7 +481,7 @@ const default_configuration = {
         },
         {
           name: "rating/tracking",
-          links: [
+          links: i[
             {
               name: "AOTY",
               url: "https://www.albumoftheyear.org/",
