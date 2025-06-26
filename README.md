@@ -1,21 +1,9 @@
-<h3 align="center">
+<h1 align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-  Catppuccin <a href="https://pivoshenko.github.io/catppuccin-startpage">Startpage</a>
+  Catppuccin <a href="https://saintshen.github.io/startpage">Startpage</a>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-</h3>
-
-<p align="center">
-  <a href="https://github.com/pivoshenko/catppuccin-startpage/stargazers">
-    <img src="https://img.shields.io/github/stars/pivoshenko/catppuccin-startpage?style=for-the-badge&logo=starship&color=a6e3a1&logoColor=D9E0EE&labelColor=302D41">
-  </a>
-  <a href="https://github.com/pivoshenko/catppuccin-startpage/issues">
-    <img src="https://img.shields.io/github/issues/pivoshenko/catppuccin-startpage?style=for-the-badge&logo=gitbook&color=fab387&logoColor=D9E0EE&labelColor=302D41">
-  </a>
-  <a href="https://github.com/pivoshenko/catppuccin-startpage/contributors">
-    <img src="https://img.shields.io/github/contributors/pivoshenko/catppuccin-startpage?style=for-the-badge&logo=github&color=f38ba8&logoColor=D9E0EE&labelColor=302D41">
-  </a>
-</p>
+</h1>
 
 <p align="center">
   <img src="assets/preview.png"/>
@@ -23,7 +11,7 @@
 
 # 🪴 Overview
 
-A minimalistic and customisable startpage featuring the [**Catppuccin palettes**](https://catppuccin.com/palette). Designed for both aesthetics and functionality, with seamless hosting on GitHub Pages. This startpage is based on [`dawn`](https://github.com/b-coimbra/dawn), which offers additional functionality. I have refined the page to match my [`dotfiles`](https://github.com/pivoshenko/dotfiles); feel free to explore them as well.
+A minimalistic and customisable startpage featuring the [**Catppuccin palettes**](https://catppuccin.com/palette). Designed for both aesthetics and functionality, with seamless hosting on GitHub Pages. This startpage is based on [`catppuccin-startpage`](https://github.com/pivoshenko/catppuccin-startpage.git).
 
 ## 🧠 Main Principles
 
@@ -47,7 +35,7 @@ A minimalistic and customisable startpage featuring the [**Catppuccin palettes**
 - Weather widget
 - Clock widget with 12/24-hour format and multiple time zones support
 
-# 🪵 Usage
+## 🪵 Usage
 
 1. Fork this repository and clone it
 2. Optionally remove the `.github` directory, as it contains only PR templates, issue labels, etc., that are linked to this repository
@@ -82,7 +70,6 @@ You can use different add-ons or extensions for this.
 <p align="center">
   <img src="assets/preview._searchbar.png"/>
 </p>
-
 
 The search dialogue allows you to display a search bar with various search engines defined in the configuration. To run search dialogue, simply press `s` and type your query.
 
