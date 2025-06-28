@@ -138,65 +138,6 @@ const default_configuration = {
             },
           ],
         },
-        {
-          name: "general",
-          links: [
-            {
-              name: "alternative-to",
-              url: "https://alternativeto.net/",
-              icon: "box-multiple",
-              icon_color: palette.green,
-            },
-            {
-              name: "deepl",
-              url: "https://www.deepl.com",
-              icon: "language",
-              icon_color: palette.peach,
-            },
-            {
-              name: "monkeytype",
-              url: "https://monkeytype.com/",
-              icon: "keyboard",
-              icon_color: palette.red,
-            },
-            {
-              name: "dub",
-              url: "https://dub.co/",
-              icon: "external-link",
-              icon_color: palette.blue,
-            },
-            {
-              name: "speed-test",
-              url: "https://librespeed.org/",
-              icon: "brand-speedtest",
-              icon_color: palette.mauve,
-            },
-            {
-              name: ".to",
-              url: "https://rentry.co/tosites",
-              icon: "arrow-loop-right",
-              icon_color: palette.sky,
-            },
-            {
-              name: "cloudconvert",
-              url: "https://cloudconvert.com/",
-              icon: "transform",
-              icon_color: palette.lavender,
-            },
-            {
-              name: "is-it-down",
-              url: "https://downforeveryoneorjustme.com/",
-              icon: "server-off",
-              icon_color: palette.flamingo,
-            },
-            {
-              name: "selfh.st",
-              url: "https://selfh.st/",
-              icon: "server-2",
-              icon_color: palette.pink,
-            },
-          ],
-        },
       ],
     },
     {
@@ -867,6 +808,71 @@ const default_configuration = {
         },
       ],
     },
+    {
+      name: "other",
+      background_url: "src/img/banners/banner_01.gif",
+      categories: [
+        {
+          name: "general",
+          links: [
+            {
+              name: "alternative-to",
+              url: "https://alternativeto.net/",
+              icon: "box-multiple",
+              icon_color: palette.green,
+            },
+            {
+              name: "deepl",
+              url: "https://www.deepl.com",
+              icon: "language",
+              icon_color: palette.peach,
+            },
+            {
+              name: "monkeytype",
+              url: "https://monkeytype.com/",
+              icon: "keyboard",
+              icon_color: palette.red,
+            },
+            {
+              name: "dub",
+              url: "https://dub.co/",
+              icon: "external-link",
+              icon_color: palette.blue,
+            },
+            {
+              name: "speed-test",
+              url: "https://librespeed.org/",
+              icon: "brand-speedtest",
+              icon_color: palette.mauve,
+            },
+            {
+              name: ".to",
+              url: "https://rentry.co/tosites",
+              icon: "arrow-loop-right",
+              icon_color: palette.sky,
+            },
+            {
+              name: "cloudconvert",
+              url: "https://cloudconvert.com/",
+              icon: "transform",
+              icon_color: palette.lavender,
+            },
+            {
+              name: "is-it-down",
+              url: "https://downforeveryoneorjustme.com/",
+              icon: "server-off",
+              icon_color: palette.flamingo,
+            },
+            {
+              name: "selfh.st",
+              url: "https://selfh.st/",
+              icon: "server-2",
+              icon_color: palette.pink,
+            },
+          ],
+        },
+      ]
+    }
   ],
 };
 
