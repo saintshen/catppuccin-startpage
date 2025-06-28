@@ -39,7 +39,7 @@ const default_configuration = {
   localIcons: true,
   localFonts: true,
   fastlink: "https://www.perplexity.ai",
-  openLastVisitedTab: true,
+  openLastVisitedTab: false,
   tabs: [
     {
       name: "myself",
