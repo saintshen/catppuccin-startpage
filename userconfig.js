@@ -154,12 +154,6 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "neptune",
-              url: "https://ui.neptune.ai",
-              icon: "circle-triangle",
-              icon_color: palette.peach,
-            },
-            {
               name: "stackoverflow",
               url: "https://stackoverflow.com",
               icon: "brand-stackoverflow",
@@ -543,41 +537,6 @@ const default_configuration = {
             },
           ],
         },
-        {
-          name: "resources",
-          links: [
-            {
-              name: "freesound",
-              url: "https://freesound.org/",
-              icon: "volume",
-              icon_color: palette.green,
-            },
-            {
-              name: "pluginboutique",
-              url: "https://www.pluginboutique.com/",
-              icon: "building-store",
-              icon_color: palette.peach,
-            },
-            {
-              name: "pianobook",
-              url: "https://www.pianobook.co.uk",
-              icon: "piano",
-              icon_color: palette.red,
-            },
-            {
-              name: "musescore",
-              url: "https://musescore.com/",
-              icon: "numbers",
-              icon_color: palette.blue,
-            },
-            {
-              name: "songsterr",
-              url: "https://www.songsterr.com/",
-              icon: "vinyl",
-              icon_color: palette.mauve,
-            },
-          ],
-        },
       ],
     },
     {
@@ -868,6 +827,41 @@ const default_configuration = {
               url: "https://selfh.st/",
               icon: "server-2",
               icon_color: palette.pink,
+            },
+          ],
+        },
+        {
+          name: "resources",
+          links: [
+            {
+              name: "freesound",
+              url: "https://freesound.org/",
+              icon: "volume",
+              icon_color: palette.green,
+            },
+            {
+              name: "pluginboutique",
+              url: "https://www.pluginboutique.com/",
+              icon: "building-store",
+              icon_color: palette.peach,
+            },
+            {
+              name: "pianobook",
+              url: "https://www.pianobook.co.uk",
+              icon: "piano",
+              icon_color: palette.red,
+            },
+            {
+              name: "musescore",
+              url: "https://musescore.com/",
+              icon: "numbers",
+              icon_color: palette.blue,
+            },
+            {
+              name: "songsterr",
+              url: "https://www.songsterr.com/",
+              icon: "vinyl",
+              icon_color: palette.mauve,
             },
           ],
         },
